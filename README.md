@@ -1,5 +1,5 @@
 ## High-performance-server
 ---
-Используем утилиту для C++ VsPkg.
+VsPkg
 
-Подгружаем бмблиотеку для работы с сервером uWebSockets.
+uWebSockets
